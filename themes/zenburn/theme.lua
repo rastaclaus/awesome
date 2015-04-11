@@ -8,7 +8,8 @@
 
 -- {{{ Main
 theme = {}
-theme.wallpaper = "~/.themes/Backgrounds/metal_textures_1920x1080_31679.jpg"
+theme.wallpaper = "~/.config/awesome/themes/zenburn/851577-metal-wallpaper.jpg"
+
 -- }}}
 
 -- {{{ Styles
